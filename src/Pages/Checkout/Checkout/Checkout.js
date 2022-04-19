@@ -9,4 +9,3 @@ const Checkout = () => {
 };
 
 export default Checkout;
-<h2>Please Checkout</h2>;
